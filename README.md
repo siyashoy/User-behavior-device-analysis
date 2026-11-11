@@ -34,5 +34,5 @@ Power BI: data cleaning, measures, interactive dashboard
 - Device and age differences are small next to the behavior class differences.
 
 ## Files
-- User_Behavior_Analysis.pbix - Power BI file
-- PowerBI_Dashboard.png - dashboard preview
+- [User_Behavior_Analysis.pbix](User_Behavior_Analysis.pbix) - Power BI file
+- [PowerBI_Dashboard.png](PowerBI_Dashboard.png) - dashboard preview
