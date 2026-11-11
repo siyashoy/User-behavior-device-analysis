@@ -8,7 +8,7 @@
 How do app usage, screen time, battery drain and data use differ by device, operating system, age and user type?
 
 ## The data
-- Public mobile usage dataset from Kaggle: **[add dataset name and link]**
+- Public mobile usage dataset from Kaggle
 - 700 users, 11 columns, 5 device models, ages 18-59
 - No missing values and no duplicate user IDs
 
