@@ -1,6 +1,6 @@
 # User Behavior & Device Performance Dashboard (Power BI)
 
-**Usage patterns vary across device models, but the dashboard focuses more on overall usage behavior than demographic differences.”**
+**Usage patterns vary across device models, but the dashboard focuses more on overall usage behavior than demographic differences.**
 
 ![Dashboard](PowerBI_Dashboard.png)
 
