@@ -1,6 +1,6 @@
 # User Behavior & Device Performance Dashboard (Power BI)
 
-**Phone model, age and gender make almost no difference to how much people use their phones. In this dataset, heavy users and light users look the same on paper.**
+**Usage patterns vary across device models, but the dashboard focuses more on overall usage behavior than demographic differences.”**
 
 ![Dashboard](PowerBI_Dashboard.png)
 
